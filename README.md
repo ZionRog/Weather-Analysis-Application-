@@ -1,5 +1,12 @@
-Weather History Python Application
+Weather Analysis Application
 
+Technologies Used
+
+- Python
+- SQLAlchemy
+- SQLite
+- Open-Meteo API
+- 
 Description:
 This application retrieves historical weather data using the Open-Meteo API for a selected U.S. location and date. It calculates five-year averages for temperature, wind speed, and precipitation, stores the data in a SQLite database using SQLAlchemy, and allows the user to query the stored weather record.
 
