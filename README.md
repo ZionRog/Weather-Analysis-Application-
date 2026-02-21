@@ -10,6 +10,16 @@ Technologies Used
 Description:
 This application retrieves historical weather data using the Open-Meteo API for a selected U.S. location and date. It calculates five-year averages for temperature, wind speed, and precipitation, stores the data in a SQLite database using SQLAlchemy, and allows the user to query the stored weather record.
 
+## Screenshots
+
+### Program Output - Output of data stored in SQLite Database.
+
+![Program Output](program-output.png)
+
+### Database Contents - Showing database persistence with stored records.
+
+![Database Contents](database-contents.png)
+
 Requirements:
 - Python 3.11 or newer
 - requests
